@@ -1,7 +1,7 @@
 # ASABE-at-UCM-Website
 This repository is dedicated to **building a website** for the **American Society of Agricultural and Biological Engineers** at **UC Merced**.
 
-![UC Merced Seal](Photos/UCMerced_seal.jpg?raw=true align=center)
+![UC Merced Seal](Photos/UCMerced_seal.jpg?raw=true)
 ![ASABE Logo](asabe_logo.jpg?raw=true)
 
 ## ASABE at UC Merced
