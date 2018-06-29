@@ -1,7 +1,7 @@
 # ASABE-at-UCM-Website
 This is a webpage dedicated to building a website for the American Society of Agricultural and Biological Engineers at UC Merced
 
-
+![UC Merced Seal](Photos/UCMerced_seal.jpg?raw=true)
 
 ## ASABE at UC Merced
 Website: <COMING SOON>
