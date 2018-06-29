@@ -2,8 +2,12 @@
 This repository is dedicated to **building a website** for the **American Society of Agricultural and Biological Engineers** at **UC Merced**.
 
 ![UC Merced Seal](Photos/UCMerced_seal.jpg?raw=true)
-![ASABE Logo](asabe_logo.jpg?raw=true)
+![ASABE Logo](Photos/asabe_logo.jpg?raw=true)
 
+<p align="center">
+  <img src="Photos/UCMerced_seal.jpg" width="350" title="hover text">
+  <img src="Photos/asabe_logo.jpg" width="350" alt="accessibility text">
+</p>
 ## ASABE at UC Merced
 Website: <COMING SOON>
 Go [fund us!](https://www.gofundme.com/uc-merced-agricultural-robotic-team)
